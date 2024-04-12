@@ -1,6 +1,6 @@
 body
 {
-	background: url(http://localhost/pl/campo.jpg) no-repeat center fixed;
+	background: url(campo.jpg) no-repeat center fixed;
     margin: 0;
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
@@ -113,6 +113,7 @@ background-position: center; /* Center the image */
 }
 
 @media (orientation: portrait) {
+	
 	.card{
 		width: 824px;
         height: 1185px;
